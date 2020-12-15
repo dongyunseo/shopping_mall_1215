@@ -1,0 +1,88 @@
+#id_forgot {
+	width: 600px;
+	height: 500px;
+	margin: auto;
+	margin-bottom: 200px;
+}
+
+hr {
+	width: 500px;
+}
+
+#id_forgot2 {
+	font-size: 12px;
+	text-align: center;
+	margin: auto;
+	color: #999;
+	padding-top: 200px;
+}
+
+h5 span {
+	color: teal;
+}
+
+.AuthPage_but {
+	list-style: none;
+	text-align: center;
+	padding-left: 0px;
+}
+
+#signup1 {
+	font-family: Go, Arial, malgun gothic, ¸¼Àº°íµñ, NanumGothic, dotum, µ¸¿ò,
+		sans-serif;
+	font-weight: bold;
+	background-color: #a4d2f2;
+	color: white;
+	border: 0;
+	border-radius: 5px;
+	padding: 10px 220px;
+	margin-left: 38px;
+}
+
+#Pwd_ChageBtu{
+    background-color: #a4d2f2;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    padding: 10px 220px;
+    margin-left: 55px;
+}
+}
+#imail {
+	position: absolute;
+	top: 110px;
+	margin: 0 470px;
+}
+
+.email_but {
+	list-style: none;
+	display: flex;
+	margin: auto;
+	align-items: center;
+	width: 230px;
+}
+
+.email_but_after {
+	list-style: none;
+	display: flex;
+	margin: auto;
+	align-items: center;
+	width: 125px;
+	padding-top: 20px;
+}
+
+.email_but li {
+	padding-right: 10px;
+}
+
+.email_c {
+	background-color: #263343;
+	color: rgb(223, 221, 221);
+	border: 0px;
+	border-radius: 5px;
+}
+
+.email_c:hover {
+	background-color: white;
+	color: #263343;
+}
