@@ -5,8 +5,11 @@ Shopping_mall-Project -> ProJect1112 -> \src\com\human\controller = java 파일�
 
 
 jsp 파일 위치 
-Shopping_mall-Project -> ProJect1112 -> \src\com\human\ = 모든 폴더 안에 jsp 파일이 있습니다. 
+Shopping_mall-Project -> ProJect1112 -> WebContent = 모든 폴더 안에 jsp 파일이 있습니다. 
 
+css 파일 위치 
+Shopping_mall-Project -> ProJect1112 -> WebContent -> CSS 폴더 안에 모든 CSS 파일이 있습니다. 
+( 모든 CSS 는 반응형으로 media screen and를 사용하여 width가 800px 이하일때 사이즈 변경이 이루어집니다. )
 
 PDF, PPT 파일은 프로젝트 설명입니다. 
 
