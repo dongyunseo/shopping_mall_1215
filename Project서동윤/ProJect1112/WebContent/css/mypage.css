@@ -1,0 +1,81 @@
+* {
+	font-family: Go, Arial, malgun gothic, ¸¼Àº°íµñ, NanumGothic, dotum, µ¸¿ò,
+		sans-serif;
+	font-weight: bold;
+}
+
+.fa-user-circle {
+	font-size: 150px;
+	font-weight: lighter;
+	padding: 30px 30px;
+}
+
+li {
+	list-style: none;
+}
+
+.mypagebox-border {
+	width: 500px;
+	height: 800px;
+	margin: auto;
+	margin-bottom: 40px;
+	color: #263343;
+}
+
+.pick {
+	width: 200px;
+	height: 200px;
+	margin-left: 110px;
+	padding-top: 50px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+.hello {
+	width: 200px;
+	margin-left: 77px;
+	margin-bottom: 20px;
+	padding: 30px;
+	text-align: center;
+}
+
+.eamil {
+	width: 250px;
+	margin-left: 71px;
+	text-align: center;
+	padding: 10px;
+}
+
+.Mid {
+	margin-top: 50px;
+	height: 375px;
+}
+
+.Mid_li {
+	padding: 25px 50px;
+	margin-left: -41px;
+}
+
+.Mid .fas {
+	padding-left: 20px;
+	padding: 0px 10px;
+	font-size: 15px;
+}
+
+.Mid i:hover {
+	color: #fff;
+	transition: all .1s;
+	border-radius: 10px;
+	padding: 10px 130px;
+	text-align: center;
+	background-color: #263343;
+}
+
+.Mid_li a:hover {
+	color: #fff;
+}
+
+.Mid_li a {
+	text-decoration: none;
+	color: #263343;
+}
