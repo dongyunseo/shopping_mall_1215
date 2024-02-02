@@ -2,7 +2,7 @@
 
 1) java 파일 위치 
   Project서동윤 -> src -> com -> human 안에 있는 모든 파일은 .java 파일로 
-  프로젝트의 controller, command, Dto, Dao, Util(오라클 DB 연동) 등 이 있습니다. 
+  프로젝트의 controller, command, Dto, Dao, Util 등 이 있습니다. 
 
 2) view 파일 위치 ( jsp 파일 ) 
   Project서동윤 -> WebContent 모든 폴더 안에 jsp 파일이 있습니다. 
