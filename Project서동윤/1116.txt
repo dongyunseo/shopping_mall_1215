@@ -268,14 +268,14 @@ insert into dress (dressid, dressName, categoryId, price, companyID, amount, dre
 insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10002,'쿠셔닝 레더 슬리퍼',998,15000,'dongyunCompany',100,'<img src=''../img/main/middle.jpg''>');
 insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10003,'불독 방향제',998,15000,'dongyunCompany',100,'<img src=''../img/main/middle2.jpg''>');
 insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10004,'프레쉬 오버 반팔티',998,14000,'dongyunCompany',100,'<img src=''../img/main/middle3.jpg''>');
-insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10005,'셔츠1',997,13000,'dongyunCompany',100,'<img src=''../img/main/nweek1.jpg''>');
-insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10006,'바지1',997,12000,'dongyunCompany',100,'<img src=''../img/main/nweek2.jpg''>');
-insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10007,'흰 반팔1',997,11000,'dongyunCompany',100,'<img src=''../img/main/nweek3.jpg''>');
-insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10008,'흰 반팔2',997,10000,'dongyunCompany',100,'<img src=''../img/main/nweek4.jpg''>');
-insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10009,'반바지1',997,16000,'dongyunCompany',100,'<img src=''../img/main/nweek5.jpg''>');
-insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10010,'흰바지1',997,17000,'dongyunCompany',100,'<img src=''../img/main/nweek6.jpg''>');
-insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10011,'슬랙스1',997,18000,'dongyunCompany',100,'<img src=''../img/main/nweek7.jpg''>');
-insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10012,'반바지2',997,19000,'dongyunCompany',100,'<img src=''../img/main/nweek8.jpg''>');
+insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10005,'셔츠1',997,13000,'dongyunCompany',100,'<img src=''../img/main/week1.jpg''>');
+insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10006,'바지1',997,12000,'dongyunCompany',100,'<img src=''../img/main/week2.jpg''>');
+insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10007,'흰 반팔1',997,11000,'dongyunCompany',100,'<img src=''../img/main/week3.jpg''>');
+insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10008,'흰 반팔2',997,10000,'dongyunCompany',100,'<img src=''../img/main/week4.jpg''>');
+insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10009,'반바지1',997,16000,'dongyunCompany',100,'<img src=''../img/main/week5.jpg''>');
+insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10010,'흰바지1',997,17000,'dongyunCompany',100,'<img src=''../img/main/week6.jpg''>');
+insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10011,'슬랙스1',997,18000,'dongyunCompany',100,'<img src=''../img/main/week7.jpg''>');
+insert into dress (dressid, dressName, categoryId, price, companyID, amount, dressimg)values(10012,'반바지2',997,19000,'dongyunCompany',100,'<img src=''../img/main/week8.jpg''>');
 
 
 
